@@ -1,5 +1,7 @@
 *.meta
 
+*.physicsMaterial2D
+
 Animations/
 
 Scenes/
