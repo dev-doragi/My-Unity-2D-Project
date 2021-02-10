@@ -8,7 +8,6 @@ public class EnemyMove : MonoBehaviour
     Animator anim;
     SpriteRenderer spriteRenderer;
     public int nextMove;
-    public int Power;
 
     void Awake()
     {
