@@ -1,6 +1,7 @@
 Hello World!
-My name is CHOI JAE IN.
-Nice to meet you.
-See you again!
-Good Bye!
+vim 명령어로 파일을 만들어보는 실습
+$ vim 이름.확장자
+엔터를 누르면 일반모드 ON
+a 또는 i 또는 s 또는 o 누르면 입력모드로 전환
+터미널로 내용 입력 후 ESC 누르고 :wq 치면 저장하고 퇴장.
 
